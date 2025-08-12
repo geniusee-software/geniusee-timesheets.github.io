@@ -33,7 +33,7 @@ When permitted by your Atlassian admin and scopes granted during installation, t
 
 ## 3) Purpose & legal bases for processing
 
-We process Personal Data to:
+We process Personal Data to: 
 
 1. **Provide and operate** the App features (timesheets, reports, approvals, exports).  
 2. **Secure & maintain** the App (monitoring, troubleshooting, preventing abuse).  
